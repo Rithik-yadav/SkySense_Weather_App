@@ -1,0 +1,8 @@
+<resources >
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">#B80C51</item>
+        <item name="colorSecondary">#B38000</item>
+        <item name="android:statusBarColor">#682A08</item>
+    </style>
+</resources>

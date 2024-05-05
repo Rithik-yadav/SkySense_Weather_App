@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">#EABE6C</color>
+    <color name="color_accent_day">#AF324C</color>
+    <color name="color_accent_night">#72b9d5</color>
+    <color name="color_black">#1B1A55</color>
+    <color name="color_red">#78A083</color>
+    <color name="color_white">#BFCFE7</color>
+</resources>

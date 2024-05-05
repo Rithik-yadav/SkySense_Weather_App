@@ -1,0 +1,15 @@
+<appwidget-provider
+    android:description="@string/app_name"
+    android:previewImage="@drawable/ic_full_widget_preview"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="in.rithik.weatherwidget.activities.FullWidgetActivity"
+    android:initialKeyguardLayout="@layout/widget_layout_full"
+    android:initialLayout="@layout/widget_layout_full"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen"
+    android:targetCellHeight="2"
+    android:targetCellWidth="4"
+    android:minHeight="110dp"
+    android:minWidth="220dp" >
+</appwidget-provider>
